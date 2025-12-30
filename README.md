@@ -49,4 +49,4 @@ Analiz süreci göstermiştir ki; ekonomik güç (GDP) mutluluk için gerekli bi
 Kullanılan Teknolojiler
 Python (Pandas, NumPy)
 Görselleştirme: Plotly (İnteraktif), Seaborn, Matplotlib
-Ortam: Jupyter Notebook
+Ortam: Notebook
