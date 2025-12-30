@@ -11,7 +11,7 @@ Kaggle'dan temin edilen ham veri seti üzerinde analiz öncesi şu işlemler uyg
 
 Sütun İsimlendirme: Kod okunabilirliğini artırmak için karmaşık sütun isimleri standart Snake_case formatına  çevrildi.
 Eksik Veri Yönetimi: Veri setinde tespit edilen eksik (NaN) değerlere sahip satırlar, analizin tutarlılığını korumak amacıyla veri setinden çıkarılmmıştır.
-Veri Tipi Kontrolü: Sayısal analizlerin hatasız yapılabilmesi için tüm metriklerin `float` sayısal tipinde olduğu doğrulanmıştır.
+Veri Tipi Kontrolü: Sayısal analizlerin hatasız yapılabilmesi için tüm metriklerin 'float' sayısal tipinde olduğu doğrulanmıştır.
 Vei Setinde Hata Kontrolü: Veri setinde olabilecek hatalar ve eksikler naliz edilmiş lakin veri setinde bir hata bulunamamıştır. Bu durum kullanılan veri setinin düzenli yapısından kaynaklıdır.
 
 
