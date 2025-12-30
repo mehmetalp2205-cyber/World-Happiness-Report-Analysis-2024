@@ -38,9 +38,11 @@ Mutluluk ile en güçlü pozitif ilişki GDP (Ekonomi) ve Sosyal Destek arasınd
 
 3. Derinlemesine Analiz: Mutluluk Sadece Para'dan mı ibaret?
 
-Projenin en kritik aşamasında, "Ekonomi/Para her şey midir?" sorusuna yanıt aramak için Çok Değişkenli Analizler yapıldı. grafikler tek tek incelendi ve yorumlandı.
+Projenin en kritik aşamasında, "Ekonomi/Para her şey midir?" sorusuna yanıt aramak için Çok Değişkenli Analizler yapıldı. Grafikler tek tek incelendi ve yorumlandı.
 
 3.1- 3D Scatter Plot: Gelir, Sağlık ve Mutluluk üçlüsü aynı anda incelendi. Geliri yüksek olup sağlığı kötü olan ülkelerin mutlulukta geride kaldığı görüldü. Bu durumun tam tersinde de aynı şekilde mutluluğu etkilediği saptandı.
+
+
 3.2- Yolsuzluk Algısı (Scatter Plot): Zengin olmasına rağmen yolsuzluk algısı yüksek olan ülkelerin mutluluk sıralamasında potansiyellerinin altında kaldığı tespit edildi. Günümüz dünyası düşünüldüğünde özellikle az gelişmiş orta doğu ve afrika ülkelerinde bu durumu canlı canlı izlemek ve saptamak mümkün bir durum.
 
 Kişisel Değerlendirme
