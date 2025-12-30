@@ -3,7 +3,7 @@
 Proje Sahibi: Mehmet Alp Yıldırım
 
 Projenin Amacı
-Bu projenin temel amacı, 2024 Dünya Mutluluk Raporu verisetini kullanarak ülkelerin mutluluk skorlarını etkileyen faktörleri incelemek, veriyi temizleyip analiz edilebilir hale getirmek ve ekonomik göstergelerin mutluluk üzerindeki gerçek etkisini veri görselleştirme teknikleriyle kanıtlamaktır.
+Bu projenin temel amacı, 2024 Dünya Mutluluk Raporu veri setini kullanarak ülkelerin mutluluk skorlarını etkileyen faktörleri incelemek, veriyi temizleyip analiz edilebilir hale getirmek ve ekonomik göstergelerin mutluluk üzerindeki gerçek etkisini veri görselleştirme teknikleriyle kanıtlamaktır.
 Proje kapsamında sadece "en mutlu ülke hangisi" sorusuna değil, "Bir ülkeyi mutlu yapan formül nedir?" sorusuna istatistiksel yanıtlar aranmıştır.
 
 1. Veri Hazırlığı ve Temizlik 
