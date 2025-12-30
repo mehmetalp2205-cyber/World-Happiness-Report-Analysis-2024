@@ -45,7 +45,8 @@ Projenin en kritik aşamasında, "Ekonomi/Para her şey midir?" sorusuna yanıt 
 
 3.2- Yolsuzluk Algısı (Scatter Plot): Zengin olmasına rağmen yolsuzluk algısı yüksek olan ülkelerin mutluluk sıralamasında potansiyellerinin altında kaldığı tespit edildi. Günümüz dünyası düşünüldüğünde özellikle az gelişmiş orta doğu ve afrika ülkelerinde bu durumu canlı canlı izlemek ve saptamak mümkün bir durum.
 
-Kişisel Değerlendirme
+Kişisel Değerlendirme:
+
 Analiz süreci göstermiştir ki; ekonomik güç (GDP) mutluluk için gerekli bir şarttır ancak yeterli değildir. Toplumun devlete duyduğu güven (Düşük Yolsuzluk) ve bireysel özgürlükler, en az bankadaki para kadar mutluluğu etkilemektedir.
 
 Kullanılan Teknolojiler
