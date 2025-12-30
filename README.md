@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehmetalp2205-cyber/World-Happiness-Report-Analysis-2024/blob/main/Mutluluk_Analizi_Projesi_2024.ipynb)
+
 2024 Dünya Mutluluk Raporu Analizi (World Happiness Report Analysis)
 
 Proje Sahibi: Mehmet Alp Yıldırım
