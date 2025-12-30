@@ -21,13 +21,13 @@ Vei Setinde Hata Kontrolü: Veri setinde olabilecek hatalar ve eksikler naliz ed
 Çizilen histogram grafiği ile dünya genelindeki mutluluk puanlarının dağılımı incelenmişitr. Skorların büyük çoğunluğunun 4.5 ile 6.5 arasında toplandığı, yani dünyanın "ortalama bir mutlulukta" olduğu saptanmıştır.
 
 2.1-Zirve ve Dip: En İyi ve En Kötü 10 Ülke
-`sort_values` fonksiyonu kullanılarak yapılan sıralamada:
+'sort_values' fonksiyonu kullanılarak yapılan sıralamada:
 En Mutlu: Finlandiya ve diğer İskandinav ülkeleri, yüksek gelir ve sosyal haklarla listenin başında yer aldı.
 En Mutsuz: Afganistan ve Lübnan gibi siyasi/ekonomik istikrarsızlık yaşayan ülkeler son sırada kaldı.
 Bulgu: En mutlu ve en mutsuz ülke arasında yaklaşık 3 katlık devasa bir puan farkı bulunması bize birçok şeyi anlatmaktadır.
 
 2.3-Bölgesel Farklılıklar
-Kıtalara göre yapılan gruplandırmada (`groupby`), Kuzey Amerika ve Avrupa bölgesinin ortalamasının, Sahra Altı Afrika bölgesinden belirgin şekilde yüksek olduğu tespit edildi. Bu durumda zaten ilk ve son 10 ülke grafiklerinde yukarıda görünmekteydi.
+Kıtalara göre yapılan gruplandırmada (groupby), Kuzey Amerika ve Avrupa bölgesinin ortalamasının, Sahra Altı Afrika bölgesinden belirgin şekilde yüksek olduğu tespit edildi. Bu durumda zaten ilk ve son 10 ülke grafiklerinde yukarıda görünmekteydi.
 
 
 2.4-İlişki Analizi (Korelasyon & Isı Haritası)
